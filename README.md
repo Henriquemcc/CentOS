@@ -1,9 +1,15 @@
 [English version](README.EN.md)
 
-# Workstation com CentOS
+# [Depreciado] Workstation com CentOS
 
 Este é o meu script de instalação dos programas que utilizo no meu computador no sistema operacional (distribuição
 Linux) [CentOS](https://www.centos.org/)
+
+## Nota de depreciação
+
+Os scripts de instalação do Fedora, CentoOS, RedHat e AlmaLinux foram unificados em um único repositório: [Fedora](https://github.com/Henriquemcc/Fedora).
+
+Por essa razão, o código-fonte deste repositório foi depreciado.
 
 ## Como executar
 
