@@ -1,9 +1,15 @@
 [Versão em Português](README.md)
 
-# Workstation with CentOS
+# [Deprecated] Workstation with CentOS
 
 This is the installation script of the programs which I use in my computer on [CentOS](https://www.centos.org/) operating
 system (Linux Distribution)
+
+## Deprecation notice
+
+The installation scripts for Fedora, CentOs, RedHat and AlmaLinux were unified in a single repository: [Fedora](https://github.com/Henriquemcc/Fedora).
+
+For that reason the source code of this repository was deprecated.
 
 ## How to run
 
